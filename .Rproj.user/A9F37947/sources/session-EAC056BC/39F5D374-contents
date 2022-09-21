@@ -1,0 +1,204 @@
+---
+title: "Jaime Arboleda Castilla | Resume"
+author: "Jaime Arboleda Castilla"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+    css:
+      - override.css
+      - resume
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Jaime Arboleda Castilla](cv/profile.jpg){.avatar}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-globe"></i> [blog](https://jvelezmagic.com/)
+-   <i class="fa fa-github"></i> [\@jvelezmagic](https://github.com/JaimeArboleda)
+-   <i class="fa fa-linkedin"></i> [\@jvelezmagic](https://www.linkedin.com/in/jvelezmagic/)
+-   <i class="fa fa-envelope"></i> [jvelezmagic\@gmail.com](mailto:jvelezmagic@gmail.com){.email}
+
+## Skills {#skills}
+
+- • Highly skilled in R using the Tidyverse and Tidymodels metapackages.
+- • Advanced Python programmer for data analysis and statistics using Pandas and Seaborn.
+- • Skillful using PostgreSQL and Amazon Redshift databases.
+- • Bash, Git, and Virtual Environments.
+- • Storytelling with data.
+- • Effective data visualization.
+- • Data analysis.
+- • Statistical and mathematical modeling.
+- • Machine learning.
+
+## Disclaimer {#disclaimer}
+
+Last updated on `r Sys.Date()`.
+
+# Main
+
+## Jesús Vélez Santiago {#title}
+
+### Data Scientist \| Data Analyst \| Genomic Scientist
+
+I love analyzing and visualizing data to improve our understanding of our surroundings. Besides, I am fascinated by software development and love contributing to the community by creating packages and courses. I am known for being a passionate, curious person, and I am always open to new challenges. Do you have any challenges? Good! Let's do it. Let's be problem solvers.
+
+## Professional Experience {data-icon="suitcase"}
+
+### Data Analyst
+
+[Platzi Inc.](https://platzi.com/)
+
+Remote work
+
+2022
+
+::: concise
+- Dashboard definition and evaluation for monitoring crucial metrics and understanding the root causes of change.
+- Extraction, transformation and loading of data for reliable analytics.
+- Work closely with cross-functional teams to quantify the impact of new product features and their interaction with the user.
+- Communication of data-driven insights; going from observations to useful insights.
+:::
+
+### Bioinformatics specialist
+
+[La Jolla Institute for Immunology](https://www.lji.org/)
+
+San Diego, United States
+
+2021
+
+::: concise
+- Creation of pipelines for cleaning and analyzing massive single-cell data sets
+- Creation of internal software packages in R that facilitate and ensure the reproducibility of specific analyses.
+:::
+
+### Developer of R Software
+
+Universität Heidelberg
+
+Heidelberg, Germany
+
+2021 - 2020
+
+Over the years, many different regulatory networks and statistical algorithms have been developed, mostly in a fixed combination of one network and one algorithm. To systematically evaluate both networks and algorithms, we developed [decoupleR](https://saezlab.github.io/decoupleR/), an R package that allows users to apply efficiently any combination provided.
+
+### Bioinformatician and Genomist
+
+Centré de Regulació Genòmica
+
+Barcelona, Spain
+
+2019
+
+-   Differential expression analysis between the different conditions (*e.g.*, deletions, overexpression, wild type) of transcriptional factors.
+-   Comparison of the expression profiles of genes regulated by transcriptional factors with the information available in *E. coli* gene regulation databases (*e.g.*, RegulonDB).
+
+## Teaching Experience {data-icon=chalkboard-teacher}
+
+### Data Science Professor
+
+[Platzi Inc.](https://platzi.com/)
+
+Remote work
+
+2022 - 2021
+
+I worked on the complete design of the structure and content of the following courses, as well as effective entry blog writing and live classes for the Data Science Community.
+
+::: concise
+-   [Jupyter Notebooks for Data Science Course](https://platzi.com/cursos/jupyter-notebook/) (More than **10,700 students** impacted).
+-   [Advanced Customization of Environment for Data Science Course](https://platzi.com/cursos/entorno-ciencia-datos/) (More than **1,700 students** impacted).
+-   Exploratory Data Analysis Methodology Course (Official release in September of 2022).
+-   Missing Data Detection for Data Science Course (Official release in September of 2022).
+-   Handling of Missing Data for Data Science Course (Official release in September of 2022).
+:::
+
+### Teaching Assistant of "Analysis of transcriptomic data of single cell (scRNA-seq) with R and Bioconductor." Course
+
+[Bioinformatics Meeting in Mexico 2021](http://congresos.nnb.unam.mx/EBM2021/analisis-de-datos-transcriptomicos-de-single-cell-con-r/)
+
+[Course material](https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/)
+
+2021
+
+::: concise
+- Provide support to students.
+- Solve configurations of work environments.
+- Guide discussions and exercises in breakout rooms.
+:::
+
+### Teaching Assistant of Linear Algebra Course
+
+Center for Genomic Sciences
+
+Cuernavaca, Morelos, Mexico
+
+2020
+
+- Monitoring of student performance accompanied by personalized
+  and group tutorials.
+- Review of assignments and exams.
+
+## Education and Training {data-icon="graduation-cap" data-concise="true"}
+
+### Datacamp Inc.
+
+Data Scientist Professional
+
+[Certificate](https://www.datacamp.com/certificate/DS0014043984873)
+
+2021
+
+The following knowledge was assessed:
+
+::: concise
+-   Data Management
+-   Model Development
+-   Exploratory Analysis
+-   Coding for Production Environments
+-   Statistical Experimentation
+-   Communication and Reporting
+:::
+
+### National Autonomous University of Mexico (UNAM)
+
+B.S. in Genomic Sciences
+
+Cuernavaca, Morelos, Mexico
+
+2021 - 2017
+
+Thesis: [Bacterial filamentation: a bet for survival in stressful environments](https://jvelezmagic.github.io/undergraduate_research_project/model-analysis.html)
+
+<br>
+<br>
+
+## Honors and Awards {data-icon="medal"}
+
+### Winner of first "Olimpiadas Platzi: Data Triathlon" -- Platzi
+
+[Platzi Inc.](https://platzi.com/)
+
+[Award link](https://platzi.com/blog/premiacion-data-triathlon/)
+
+2020
+
+### Support Program for Research and Technological Innovation Projects (PAPIIT)
+
+National Autonomous University of Mexico (UNAM)
+
+Mexico
+
+2020
+
+### Program for Special Inter-institutional Cooperation Activities (PAECI)
+
+National Autonomous University of Mexico (UNAM)
+
+Mexico
+
+2019

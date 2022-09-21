@@ -1,0 +1,429 @@
+---
+title: "Jaime Arboleda Castilla"
+author: "Jaime Arboleda Castilla"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+    css:
+      - override.css
+      - resume
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Jaime Arboleda Castilla](./profile.jpg){.avatar}
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-globe"></i> [blog](https://jaime-arboleda.netlify.app)
+-   <i class="fa fa-github"></i> [github](https://github.com/JaimeArboleda)
+-   <i class="fa fa-linkedin"></i> [linkedin](https://www.linkedin.com/in/jaime-arboleda-castilla-1a676b207)
+-   <i class="fa fa-envelope"></i> [email](mailto:jaime.arboleda.castilla@gmail.com){.email}
+
+## Skills {#skills}
+
+- • Machine learning and Deep Learning
+- • Data Analysis and Statistics. 
+- • Bayesian Inference. 
+- • Optimization. 
+- • Structured approach to problem solving. 
+- • Critical thinking.
+- • Easy to get along with. 
+- • Python, R, Spark, Java.  
+- • Tidyverse and tidymodels frameworks.
+- • Numpy, Pandas, Scikit-Learn, Tensorflow and Keras frameworks. 
+- • Git and Docker. 
+
+# Main
+
+## Jaime Arboleda Castilla {#title}
+
+### Data Scientist \| Mathematician \| Software Engineer
+
+Born in 1985 in Algeciras (Province of Cádiz, Spain).
+
+I love gaining and sharing insights from data, as well as using those insights to make better decisions. I am always passionate about learning new things and I am able to do it fast. I am interesting in research and open problems, keeping up with new approaches in Machine Learning. Lately I have been very interested in Bayesian modeling and causal inference, although I have mostly worked on predictive modeling. I like programming and contributing to the open source community. I am easy to work with and I have always maintained good relationships with all my coworkers. 
+
+
+## Professional Experience {data-icon="suitcase"}
+
+### Data Scientist
+
+[European Commision](https://ec.europa.eu/info/index_en)
+
+Remote work
+
+2022 - 2021
+
+On Safety and Security Analytics (SSA) team in [ICS2 Project](https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0_en), [TAXUD](https://taxation-customs.ec.europa.eu/index_en)
+
+**Description**
+
+::: concise
+- Researching, designing and continuous developing of SSA models.
+- Supporting deployment and orchestration of SSA models and analytic solutions for real time use.
+- Supporting designing, organizing and monitoring of the SSA entire workflow.
+- Developing Similarity Search and Anomaly Detection capabilities. 
+- Providing training for Public Officers across all Member States.
+:::
+
+**Projects**
+
+::: concise
+- Similarity search engine. It's built on top of several custom components, including a new neural network architecture based on Transformers. 
+- Model comparison tool for performance analysis, built with Dash and Docker.
+- Synthetic XML generation.
+- XML Splitter tool, which is a custom pipeline for transforming a complex XML into a Pandas Dataframe, with many options. 
+:::
+
+**Technologies**
+
+::: concise
+- Dataiku, RStudio, JupyterLab.
+- Denodo, Oracle, PostgreSQL, Neo4j.
+- SQL, Python, R, Bash, XML, JSON, HTML.
+- Numpy, Pandas, Keras, Tensorflow, Dash. 
+- GitLab, Jenkins, Docker, Kubernetes, Apache Kafka.
+:::
+
+### Head of IT Unit and Data Scientist
+
+[Spanish Tax Agency](https://sede.agenciatributaria.gob.es)
+
+Madrid, Spain
+
+2021 - 2020
+
+On Subdivision of Information Analysis Technologies and Fraud Investigation
+
+**Description**
+
+::: concise
+- Spanish Public Officer belonging to the Senior Corps of Systems, Information and Communication Technologies of the State Administration.
+- Data Scientist and manager of a team of 8 people working on analytic models for tax fraud detection. 
+:::
+
+**Projects**
+
+::: concise
+- Custom (based on KNN) clustering algorithm that, using the information of purchases and sales of each corporation, predicts whether its declared sector of economic activity is accurate or not. It was programmed in Scala.
+- Identification of statistical position and undervaluation of goods fraud in Customs declarations by modifying an existing algorithm provided by European Commission. 
+- Classifier (using XGBoost) for predicting whenever a taxpayer is most likely to make a mistake when modifying some parts of its draft of Personal Income Tax Declaration. The goal was to provide a nudge message to those taxpayers in the event of modification, aiming at reducing filling errors. 
+- Classifier for predicting the risk of non-payment of debts with the Tax Agency, in order to anticipate precautionary measures.
+- Classifier for predicting the risk of not paying its tax liabilities in due time for a given taxpayer. This model makes use of near real time information regarding all invoices collected in the previous months of the prediction.
+- Regression model for predicting the total (declared or undeclared) incomes of a given family using all available information. 
+:::
+
+**Technologies**
+
+::: concise
+- Python, Scala, Spark. 
+- Pandas, Numpy, Scikit-Learn, Xgboost, Luigi.
+- Linux, Cloudera.
+- SyBase IQ, DataStage.
+:::
+
+
+### Head of IT Unit
+
+[Spanish Tax Agency](https://sede.agenciatributaria.gob.es)
+
+Madrid, Spain
+
+2019 - 2017
+
+On Subdivision of Software Development and Applications
+
+**Description**
+
+::: concise
+- Spanish Public Officer belonging to the Senior Corps of Systems, Information and Communication Technologies of the State Administration.
+- Manager of a team of 15 people working on SW development for Personal Income Tax and applications.
+:::
+
+**Projects**
+
+::: concise
+- Web service for personal data ingestion, for the web app of Personal Income Tax Declarations.
+- Cryptographic service for granting access credentials for the presentation of the Income Tax Declarations.
+- Datawarehouse ingestion of Personal Income Tax Declarations.
+- Risk analysis (combining rule-based risks, statistical risks and simple predictive models) for Personal Income Tax Declarations.
+- Software development for the management and lifecycle of Personal Income Tax Declarations.
+:::
+
+**Technologies**
+
+::: concise
+- COBOL, Java, HTML, JavaScript.
+- Web Services.
+- DB2, Oracle.
+- Z/OS, Linux.
+- SyBase IQ, DataStage.
+:::
+
+
+### Head of IT Unit
+
+[Spanish Tax Agency](https://sede.agenciatributaria.gob.es)
+
+Madrid, Spain
+
+2017 - 2013
+
+On Subdivision of Software Development and Applications
+
+**Description**
+
+::: concise
+- Spanish Public Officer belonging to the Senior Corps of Systems, Information and Communication Technologies of the State Administration.
+- Manager of a team of 8 people working on SW development for Corporate Tax and applications.
+:::
+
+**Projects**
+
+::: concise
+- Datawarehouse ingestion of Corporate Tax Declarations.
+- Risk analysis (combining rule-based risks, statistical risks and simple predictive models) for Corporate Tax Declarations.
+- Software development for the management and lifecycle of Corporate Tax Declarations.
+:::
+
+**Technologies**
+
+::: concise
+- COBOL, Java.
+- DB2, Oracle.
+- Z/OS, Linux.
+- SyBase IQ, DataStage.
+:::
+
+
+## Teaching Experience {data-icon=chalkboard-teacher}
+
+### Mathematics Teacher
+
+[Academia Castiñeira](https://www.academiacastineira.com)
+
+Madrid, Spain
+
+2022 - 2020
+
+I regularly give a course on Mathematical Methods (Differential Equations, Harmonic Analysis and Complex Analysis) for students of third course of Aeronautic Engineering. 
+
+### Lecturer
+
+Webinar
+
+Universidad Complutense, Madrid, Spain
+
+2021
+
+I gave a [lecture](https://www.youtube.com/watch?v=9ynftKLBBK8&t=2h9m25s) in the Fiscality and Artificial Intelligence Webinar to present a project held at the Tax Agency, related to using the Nudge philosophy to boost voluntary tax compliance.
+
+### Mathematics Teacher
+
+[Academia Montero Espinosa](https://monteroespinosa.com)
+
+Madrid, Spain
+
+2020 - 2017
+
+I gave multiple courses to students of the Degree of Mathematics, including:
+
+::: concise
+- Complex Analysis. 
+- Topology.
+- Advanced Algebra.
+- Statistics.
+- Probability.
+- Galois Theory.
+- Integration and Measurement Theory.
+- Physics.
+::: 
+
+## Publications {data-icon=book}
+
+### Nudge Project
+
+Paper
+
+Aranzadi Thomson Reuters
+
+2021
+
+Paper on Nudge project, carried out at the Tax Agency, consisting of the application of Artificial Intelligence to help the assistance to the taxpayer and voluntary compliance with tax obligations. Published in Aranzadi Thomson Reuters, along with other works presented in the Webinar "Fiscality and Artificial Intelligence" organized by the Complutense University of Madrid.
+
+## Open Source Collaborations {data-icon=code-branch}
+
+### Collaborator of Keras
+
+[Keras](https://github.com/keras-team/keras)
+
+Remote work
+
+2022
+
+I raised an [issue](https://github.com/keras-team/keras/issues/16797) after finding a bug, and weeks later I was able to fix it with a [pull request](https://github.com/keras-team/keras/pull/16870) that was merged on the main branch. 
+
+### Developer of open source library
+
+[Nested Cross Validation](https://github.com/JaimeArboleda/nestedcvtraining)
+
+Remote work
+
+2021
+
+Python package that performs hyperparameter optimization, train, probability calibration and error validation of classification models using a Nested Cross-Validation approach.
+
+## Education and Training {data-icon="graduation-cap" data-concise="true"}
+
+### European Commission Training
+
+Internal training
+
+Remote 
+
+2022 - 2021
+
+::: concise
+- Cibersecurity
+- Software Development and Agile Methodologies.
+:::
+
+### Spanish Tax Agency Training
+
+Internal training
+
+Madrid, Spain
+
+2021 - 2013
+
+::: concise
+- Advance Data Analysis.
+- Machine Learning and Big Data.
+- Geospatial Data Processing in R.
+- Software Development and Agile Methodologies.
+- Automatic Reporting tools.
+- Data Warehousing. 
+- Blockchain and Cryptocurrencies.
+- OSGI for Java development.
+- SCRUM and Agile methodologies.
+- Advanced Java programming.
+:::
+
+### Coursera 
+
+Courses and Specializations
+
+Remote
+
+2021 - 2017
+
+::: concise
+- Bayesian Statistics: From Concept to Data Analysis.
+- Bayesian Statistics: Techniques and Models.
+- Bayesian Statistics: Mixture Models.
+- Neural Networks and Deep Learning.
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization.
+- Structuring Machine Learning Projects.
+- Convolutional Neural Networks and Computer Vision.
+- Sequence Models and Natural Language Processing.
+- Machine Learning.
+:::
+
+### National Institute of Public Administrations (INAP)
+
+Selective course
+
+Madrid, Spain
+
+2013 - 2012
+
+Course for accessing the Senior Corps of Systems, Information and Communication Technologies of the State Administration.
+
+::: concise
+- Passed the competitive examination to the Corps in the first attempt and with the second best place of 600 candidates.
+- In the internship phase, I worked on an analysis of the security systems of the Ministry of Defense.
+::: 
+
+### Universidad Española de Educación a Distancia (UNED)
+
+Master's Degree in High School Teacher Training
+
+Madrid, Spain
+
+2016 - 2014
+
+::: concise
+- Average mark of 8.1.
+- 215 hours of teaching internships at high school.
+- Finished with a work on teaching Mathematics using programming tools.
+::: 
+
+### Universidad Complutense de Madrid (UCM)
+
+Master's Degree in Mathematical Research
+
+Madrid, Spain
+
+2010 - 2009
+
+::: concise
+- Average mark of 8.8.
+- Carried out under the direction of Mr. Francisco Presas with a research work in geometric quantization.
+::: 
+
+### Universidad Autónoma de Madrid (UAM)
+
+Double Degree in Mathematics and Computer Science
+
+Madrid, Spain
+
+2009 - 2005
+
+::: concise
+- Average mark of 9.5 and 25 Honor Distinctions.
+- I studied additional courses out of the curriculum.
+::: 
+
+## Honors and Awards {data-icon="medal"}
+
+### Consejo Superior de Investigaciones Científicas (CSIC)
+
+Scolarships
+
+Madrid, Spain
+
+2011 - 2007
+
+::: concise
+- I was granted a scholarship oriented to the realization of doctoral thesis with CSIC, stopped for personal reasons after obtaining the Master's Degree in Mathematical Research.
+- I was awarded to be part of a program to expand studies in Mathematics during summers. This allowed me to attend intensive courses during the summers of 2007 and 2008 at the Complutense University of Madrid.
+::: 
+
+### Universidad Autónoma de Madrid
+
+Honorable mention
+
+Madrid, Spain
+
+2009
+
+Winner of honorable mention to the student with the overall best marks during the degree.
+
+### Comunidad de Madrid
+
+Scolarships for outstanding academic performance
+
+Madrid, Spain
+
+2009 - 2004
+
+::: concise
+- Course 2008/2009: Teaching supprt on Differential Geometry.
+- Course 2007/2008: Work on numerical methods for solving equations.
+- Course 2006/2007: Work on Neural Networks.
+- Course 2005/2006: Work on Commutative Algebra.
+- Course 2004/2005: Work on cryptography and number theory.
+::: 
