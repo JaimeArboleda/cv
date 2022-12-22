@@ -318,9 +318,12 @@ Courses and Specializations
 
 Remote
 
-2021 - 2017
+2022 - 2017
 
 ::: concise
+- Probabilistic Graphical Models: Representation
+- Probabilistic Graphical Models: Inference
+- Probabilistic Graphical Models: Learning
 - Bayesian Statistics: From Concept to Data Analysis.
 - Bayesian Statistics: Techniques and Models.
 - Bayesian Statistics: Mixture Models.
@@ -373,10 +376,6 @@ Madrid, Spain
 - Average mark of 8.8.
 - Carried out under the direction of Mr. Francisco Presas with a research work in geometric quantization.
 ::: 
-
-</br>
-</br>
-</br>
 
 ### Universidad Autónoma de Madrid (UAM)
 
