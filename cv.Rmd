@@ -31,7 +31,7 @@ knit: pagedown::chrome_print
 - • Structured approach to problem solving. 
 - • Critical thinking.
 - • Easy to get along with. 
-- • Python, R, Spark, Java.  
+- • Python, R, Spark, Java, Rust.  
 - • Tidyverse and tidymodels frameworks.
 - • Numpy, Pandas, Scikit-Learn, Tensorflow and Keras frameworks. 
 - • Git and Docker. 
@@ -255,6 +255,16 @@ Aranzadi Thomson Reuters
 Paper on Nudge project, carried out at the Tax Agency, consisting of the application of Artificial Intelligence to help the assistance to the taxpayer and voluntary compliance with tax obligations. Published in Aranzadi Thomson Reuters, along with other works presented in the Webinar "Fiscality and Artificial Intelligence" organized by the Complutense University of Madrid.
 
 ## Open Source Collaborations {data-icon=code-branch}
+
+### Collaborator of category_encoders
+
+[category_encoders](https://github.com/scikit-learn-contrib/category_encoders)
+
+Remote work
+
+2023
+
+I fixed an [issue](https://github.com/scikit-learn-contrib/category_encoders/issues/395) related to the compatibility between this library and `sklearn` when using composed objects (`Pipeline` and `ColumnTransformer`). My [pull request](https://github.com/scikit-learn-contrib/category_encoders/pull/398) was merged in the main branch.
 
 ### Collaborator of Keras
 
