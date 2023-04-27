@@ -55,7 +55,7 @@ I love gaining and sharing insights from data, as well as using those insights t
 
 Remote work
 
-2022 - 2021
+2023 - 2021
 
 On Safety and Security Analytics (SSA) team in [ICS2 Project](https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0_en), [TAXUD](https://taxation-customs.ec.europa.eu/index_en)
 
@@ -287,6 +287,18 @@ Remote work
 Python package that performs hyperparameter optimization, train, probability calibration and error validation of classification models using a Nested Cross-Validation approach.
 
 ## Education and Training {data-icon="graduation-cap" data-concise="true"}
+
+### DataTalksClub
+
+Zoomcamp
+
+Remote
+
+2023
+
+::: concise
+- Data Engineering Zoomcamp
+:::
 
 ### European Commission Training
 
