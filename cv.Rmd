@@ -201,6 +201,29 @@ On Subdivision of Software Development and Applications
 
 ## Teaching Experience {data-icon=chalkboard-teacher}
 
+### Big Data 
+
+[BBVA](https://www.bbva.com/)
+
+Remote work
+
+2023
+
+Professor of Data Scientist Fundamentals Course, delivered to 23 workers of BBVA from South America. The course had a duration of 42 days (168 hours), and covered, among other topics: 
+
+::: concise
+* Big Data tools in BBVA (Datio, Stratio, Crossdata).
+* Python.
+* Data Wrangling with Numpy and Pandas.
+* Data Visualization with Matplotlib and Seaborn.
+* Machine Learning with scikit-learn.
+* Big Data with Spark and SparkSQL.
+* Machine Learning with SparkML.
+* Deep Learning with PyTorch.
+:::
+
+I enjoyed the experience a lot, and I received very positive feedback from all the students (every student ranked the instructor with the maximum score).
+
 ### Mathematics Teacher
 
 [Academia Castiñeira](https://www.academiacastineira.com)
