@@ -428,3 +428,44 @@ Madrid
 - 25 Matrículas de Honor.
 - Premio al mejor estudiante de la promoción.
 ::: 
+
+## Becas y Premios {data-icon="medal"}
+
+### Consejo Superior de Investigaciones Científicas (CSIC)
+
+Becas
+
+Madrid, Spain
+
+2011 - 2007
+
+::: concise
+- Beca Jae Predoc para la obtención de una tesis doctoral, interrumpida por razones personales tras obtener el Máster en Investigación Matemática en la Universidad Complutense.
+- Beca Jae Intro, programa de ampliación de estudios para estudiantes con calificaciones excelentes que se realiza durante el verano. Me fue concedida en 2007 y 2008.
+::: 
+
+### Universidad Autónoma de Madrid
+
+Mención de Honor
+
+Madrid, Spain
+
+2009
+
+Mención de Honor al estudiante con las mejores calificaciones medias de mi promoción de la Doble Titulación en Informática y Matemáticas.
+
+### Comunidad de Madrid
+
+Beca de Excelencia
+
+Madrid, Spain
+
+2009 - 2004
+
+::: concise
+- Curso 2008/2009: Soporte a la enseñanza de la asignatura de Geometría Diferencial.
+- Curso 2007/2008: Cálculo numérico aplicado a la resolución de ecuaciones diferenciales.
+- Curso 2006/2007: Redes neuronales.
+- Curso 2005/2006: Álgebra Conmutativa.
+- Curso 2004/2005: Criptografía y teoría de números.
+::: 
