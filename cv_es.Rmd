@@ -1,0 +1,430 @@
+---
+title: "Jaime Arboleda Castilla"
+author: "Jaime Arboleda Castilla"
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+    css:
+      - override.css
+      - resume
+knit: pagedown::chrome_print
+---
+
+# Aside
+
+![Jaime Arboleda Castilla](./profile.jpg){.avatar}
+
+## Información de contacto {#contact}
+
+-   <i class="fa fa-github"></i> [github](https://github.com/JaimeArboleda)
+-   <i class="fa fa-linkedin"></i> [linkedin](https://www.linkedin.com/in/jaime-arboleda-castilla-1a676b207)
+-   <i class="fa fa-envelope"></i> [email](mailto:jaime.arboleda.castilla@gmail.com){.email}
+
+## Habilidades y Conocimientos {#skills}
+
+- • Sistema fiscal español.
+- • Herramientas de control del fraude tributario.
+- • Control aduanero.
+- • Machine Learning y Deep Learning.
+- • Análisis de datos y estadística.
+- • Python, R, Spark, Java.  
+- • Numpy, Pandas, Scikit-Learn, PyTorch, Tensorflow, Keras.
+
+# Main
+
+## Jaime Arboleda Castilla {#title}
+
+### Científico de Datos \| Matemático \| Ingeniero Informático
+
+Nacido en 1985 en Algeciras (Cádiz).
+
+Me encanta obtener conocimientos a partir de los datos, y aprovecharlos para tomar decisiones mejores. Siempre estoy apasionado por aprender cosas nuevas. Estoy interesado especialmente en la utilización de la Inteligencia Artificial y el Machine Learning en el control del fraude tributario. 
+
+
+## Experiencia profesional {data-icon="suitcase"}
+
+### Jefe de Área
+
+[Agencia Tributaria](https://sede.agenciatributaria.gob.es)
+
+Madrid
+
+Actualidad - 2024 
+
+En la Subdirección de Tecnologías de Análisis de la Información en Investigación del Fraude del Departamento de Informática Tributaria
+
+**Descripción**
+
+::: concise
+- Funcionario del Cuerpo Superior de Sistemas y Tecnologías de la Administración del Estado.
+- Jefe de Área de modelos predictivos en el control del fraude. 
+:::
+
+**Proyectos**
+
+::: concise
+- Desarrollo de una plataforma ad-hoc para monitorizar los modelos de Machine Learning (MLOPS). 
+- Aplicación de redes neuronales convolucionales para detección de fraudes en imágenes de Rayos X en aduanas. 
+:::
+
+**Tecnologías**
+
+::: concise
+- Python, Spark. 
+- Pandas, Numpy, Scikit-Learn, Xgboost, PyTorch, ZenML.
+- Linux, Cloudera.
+- SyBase IQ.
+:::
+
+### Data Scientist
+
+[Comisión Europea](https://ec.europa.eu/info/index_en)
+
+Trabajo remoto
+
+2023 - 2021
+
+En el proyecto Safety and Security Analytics (SSA) [ICS2 Project](https://taxation-customs.ec.europa.eu/customs-4/customs-security/import-control-system-2-ics2-0_en), [TAXUD](https://taxation-customs.ec.europa.eu/index_en)
+
+**Descripción**
+
+::: concise
+- Investigación, diseño y desarrollo continuo de modelos en SSA.
+- Apoyo en la implementación y orquestación de modelos en SSA, y soluciones analíticas para uso en tiempo real.
+- Apoyo en el diseño, organización y supervisión de todo el flujo de trabajo en SSA.
+- Desarrollo de capacidades de búsqueda y detección de anomalías.
+- Formación a funcioarios de todos los Estados Miembros.
+:::
+
+**Proyectos**
+
+::: concise
+- Motor de búsqueda de similitud (entre declaraciones de aduanas) usando redes neuronales.
+- Herramienta de comparación de modelos para análisis de rendimiento, construida con Dash y Docker.
+- Generación sintética de XMLs.
+- Herramienta de procesado de XMLs.
+- Detección de Anomalías en las declaraciones de aduanas.
+:::
+
+**Tecnologías**
+
+::: concise
+- Dataiku, RStudio, JupyterLab.
+- Denodo, Oracle, PostgreSQL, Neo4j.
+- SQL, Python, R, Bash, XML, JSON, HTML.
+- Numpy, Pandas, Keras, Tensorflow, Dash. 
+- GitLab, Jenkins, Docker, Kubernetes, Apache Kafka.
+:::
+
+### Jefe de Área
+
+[Agencia Tributaria](https://sede.agenciatributaria.gob.es)
+
+Madrid
+
+2021 - 2020
+
+En la Subdirección de Tecnologías de Análisis de la Información en Investigación del Fraude del Departamento de Informática Tributaria
+
+**Descripción**
+
+::: concise
+- Funcionario del Cuerpo Superior de Sistemas y Tecnologías de la Administración del Estado.
+- Jefe de Área de modelos predictivos en el control del fraude. 
+:::
+
+**Proyectos**
+
+::: concise
+- Algoritmo de clustering personalizado (basado en KNN) que, utilizando la información de compras y ventas de cada empresa, predice si su sector declarado de actividad económica es correcto o no. 
+- Identificación de la posición estadística y subvaloración de bienes en declaraciones aduaneras mediante la modificación de un algoritmo existente proporcionado por la Comisión Europea.
+- Clasificador (utilizando XGBoost) para predecir cuándo es más probable que un contribuyente cometa un error al modificar algunas partes de su borrador de IRPF. El objetivo era enviar un mensaje de advertencia a estos contribuyentes en caso de modificación, con el fin de reducir errores.
+- Clasificador para predecir el riesgo de impago de deudas con la Agencia Tributaria, con el propósito de anticipar medidas preventivas.
+- Clasificador para predecir el riesgo de no pagar sus obligaciones fiscales a tiempo para un contribuyente dado. Este modelo utiliza información casi en tiempo real sobre todas las facturas recopiladas en los meses anteriores a la predicción.
+- Modelo de regresión para predecir los ingresos totales (declarados o no declarados) de una familia dada utilizando toda la información disponible.
+:::
+
+**Tecnologías**
+
+::: concise
+- Python, Scala, Spark. 
+- Pandas, Numpy, Scikit-Learn, Xgboost, Luigi.
+- Linux, Cloudera.
+- SyBase IQ, DataStage.
+:::
+
+
+### Jefe de Área
+
+[Agencia Tributaria](https://sede.agenciatributaria.gob.es)
+
+Madrid
+
+2019 - 2017
+
+En la Subdirección de Aplicaciones del Departamento de Informática Tributaria
+
+**Descripción**
+
+::: concise
+- Funcionario del Cuerpo Superior de Sistemas y Tecnologías de la Administración del Estado.
+- Jefe de Área de Aplicación Gestora de IRPF. 
+:::
+
+
+**Proyectos**
+
+::: concise
+- Servicio web para la ingesta de datos personales, para la aplicación Renta Web.
+- Servicio criptográfico para otorgar credenciales de acceso para la presentación de las Declaraciones de IRPF.
+- Ingesta de datos de Declaraciones de IRPF.
+- Análisis de riesgos (combinando riesgos basados en reglas, riesgos estadísticos y modelos predictivos simples) para las Declaraciones de IRPF.
+- Desarrollo de software para la gestión y ciclo de vida de las Declaraciones de IRPF.
+:::
+
+**Tecnologías**
+
+::: concise
+- COBOL, Java, HTML, JavaScript.
+- Web Services.
+- DB2, Oracle.
+- Z/OS, Linux.
+- SyBase IQ, DataStage.
+:::
+
+### Jefe de Servicio
+
+[Agencia Tributaria](https://sede.agenciatributaria.gob.es)
+
+Madrid
+
+2017 - 2013
+
+En la Subdirección de Aplicaciones del Departamento de Informática Tributaria
+
+**Descripción**
+
+::: concise
+- Funcionario del Cuerpo Superior de Sistemas y Tecnologías de la Administración del Estado.
+- Jefe de Área de Aplicación Gestora de Sociedades 
+:::
+
+**Projects**
+
+::: concise
+- Ingesta de datos de Declaraciones de Sociedades
+- Análisis de riesgos (combinando riesgos basados en reglas, riesgos estadísticos y modelos predictivos simples) para las Declaraciones de Sociedades.
+- Desarrollo de software para la gestión y ciclo de vida de las Declaraciones de Sociedades.
+:::
+
+**Technologies**
+
+::: concise
+- COBOL, Java.
+- DB2, Oracle.
+- Z/OS, Linux.
+- SyBase IQ, DataStage.
+:::
+
+
+## Experiencia Docente {data-icon=chalkboard-teacher}
+
+### Big Data 
+
+[BBVA](https://www.bbva.com/)
+
+Trabajo Remoto
+
+2023
+
+Profesor de Data Scientist Fundamentals, impartido a 23 trabajadores del BBVA en Mexico, Argentina y Colombia. El curso tuvo una duración de 42 días (168 horas), y cubrió entre otros: 
+
+::: concise
+* Big Data tools en BBVA (Datio, Stratio, Crossdata).
+* Python.
+* Data Wrangling con Numpy y Pandas.
+* Data Visualization con Matplotlib y Seaborn.
+* Machine Learning con scikit-learn.
+* Big Data con Spark y SparkSQL.
+* Machine Learning con SparkML.
+* Deep Learning con PyTorch.
+:::
+
+
+### Seminario
+
+Webinar
+
+Universidad Complutense, Madrid
+
+2021
+
+Di una [charla](https://www.youtube.com/watch?v=9ynftKLBBK8&t=2h9m25s) en el webinar sobre Fiscalidad e Inteligencia Artificial, con Ramón Palacios (Subdirector del Departamento de Verificación y Control Tributario) sobre el proyecto Nudge para impulsar el control tributario adelantándolo a la fase de Asistencia al Contribuyente.
+
+## Publicaciones {data-icon=book}
+
+### Proyecto Nudge
+
+Paper
+
+Aranzadi Thomson Reuters
+
+2021
+
+El proyecto Nudge, realizado en la Agencia Tributaria, consistió en la aplicación de la Inteligencia Artificial para ayudar en la asistencia al contribuyente y el cumplimiento voluntario de las obligaciones fiscales. Fue publicado en Aranzadi Thomson Reuters, junto con otros trabajos presentados en el seminario web "Fiscalidad e Inteligencia Artificial" organizado por la Universidad Complutense de Madrid.
+
+## Colaboraciones en proyectos Open Source {data-icon=code-branch}
+
+### Colaborador de category_encoders
+
+[category_encoders](https://github.com/scikit-learn-contrib/category_encoders)
+
+Trabajo Remoto
+
+2023
+
+Arreglé un [error](https://github.com/scikit-learn-contrib/category_encoders/issues/395) relacionado con la compatibilidad entre la librería y `sklearn`. Mi [solución](https://github.com/scikit-learn-contrib/category_encoders/pull/398) fue integrada en el proyecto.
+
+### Colaborador de Keras
+
+[Keras](https://github.com/keras-team/keras)
+
+Trabajo Remoto
+
+2022
+
+Encontré un [error](https://github.com/keras-team/keras/issues/16797), y semanas después pude resolverlo con una [solución](https://github.com/keras-team/keras/pull/16870) que fue integrada en el proyecto. 
+
+### Desarrollador de una librería Open Source
+
+[Nested Cross Validation](https://github.com/JaimeArboleda/nestedcvtraining)
+
+Trabajo remoto
+
+2021
+
+Librería de Python que hace hyperparameter optimization y probability calibration sobre modelos de clasificación usando un enfoque de Nested Cross-Validation.
+
+## Formación {data-icon="graduation-cap" data-concise="true"}
+
+### DataTalksClub
+
+Zoomcamp
+
+Remoto
+
+2023
+
+::: concise
+- Data Engineering Zoomcamp
+:::
+
+### Comisión Europea
+
+Formación interna
+
+Remote 
+
+2022 - 2021
+
+::: concise
+- Cibersecurity
+- Software Development y Agile Methodologies.
+:::
+
+### Agencia Tributaria
+
+Formación interna
+
+Madrid
+
+2021 - 2013
+
+::: concise
+- Análisis de Datos.
+- Machine Learning y Big Data.
+- Geospatial Data Processing en R.
+- Metodologías Ágiles.
+- Zújar (herramienta interna de BI).
+- Genio (herramienta interna de reporting).
+- Blockchain.
+- OSGI y Java.
+:::
+
+### Coursera 
+
+Cursos y especializaciones
+
+Remote
+
+2022 - 2017
+
+::: concise
+- Probabilistic Graphical Models: Representation
+- Probabilistic Graphical Models: Inference
+- Probabilistic Graphical Models: Learning
+- Bayesian Statistics: From Concept to Data Analysis.
+- Bayesian Statistics: Techniques and Models.
+- Bayesian Statistics: Mixture Models.
+- Neural Networks and Deep Learning.
+- Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization.
+- Structuring Machine Learning Projects.
+- Convolutional Neural Networks and Computer Vision.
+- Sequence Models and Natural Language Processing.
+- Machine Learning.
+:::
+
+### INAP
+
+Curso selectivo
+
+Madrid
+
+2013 - 2012
+
+Curso de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información del Estado.
+
+::: concise
+- Aprobado con la segunda mejor calificación de todos los candidatos.
+::: 
+
+### Universidad Española de Educación a Distancia (UNED)
+
+Master en formación del profesorado
+
+Madrid
+
+2016 - 2014
+
+::: concise
+- Nota media de 8.1.
+- Finalizado con un trabajo de enseñanza de matemáticas usando programación.
+::: 
+
+### Universidad Complutense de Madrid (UCM)
+
+Master en Investigación Matemática
+
+Madrid
+
+2010 - 2009
+
+::: concise
+- Nota media de 8.8.
+- Finalizado con un trabajo de investigación en cuantización geométrica.
+::: 
+
+### Universidad Autónoma de Madrid (UAM)
+
+Double grado en Matemáticas e Informática
+
+Madrid
+
+2009 - 2005
+
+::: concise
+- Nota media de 9.5.
+- 25 Matrículas de Honor.
+- Premio al mejor estudiante de la promoción.
+::: 
