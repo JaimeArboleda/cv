@@ -13,6 +13,16 @@ knit: pagedown::chrome_print
 
 # Aside
 
+<script>
+    function add_favicon_link() {
+        const link = document.createElement("link");
+        link.rel = "shortcut icon";
+        link.href = "#";
+        document.head.appendChild(link);
+    }
+    add_favicon_link();
+</script>
+
 ![Jaime Arboleda Castilla](./profile.jpg){.avatar}
 
 ## Información de contacto {#contact}
@@ -27,6 +37,7 @@ knit: pagedown::chrome_print
 - • Herramientas de control del fraude tributario.
 - • Control aduanero.
 - • Machine Learning y Deep Learning.
+- • LLMs. 
 - • Análisis de datos y estadística.
 - • Python, R, Spark, Java.  
 - • Numpy, Pandas, Scikit-Learn, PyTorch, Tensorflow, Keras.
@@ -39,8 +50,7 @@ knit: pagedown::chrome_print
 
 Nacido en 1985 en Algeciras (Cádiz).
 
-Me encanta obtener conocimientos a partir de los datos, y aprovecharlos para tomar decisiones mejores. Siempre estoy apasionado por aprender cosas nuevas. Estoy interesado especialmente en la utilización de la Inteligencia Artificial y el Machine Learning en el control del fraude tributario. 
-
+Me apasionan la inteligencia artificial y la ciencia de datos, tanto de manera teórica, estando al tanto de las nuevas técnicas, como de manera aplicada, intentando que la tecnología tenga un impacto positivo en la Agencia Tributaria. 
 
 ## Experiencia profesional {data-icon="suitcase"}
 
@@ -50,7 +60,7 @@ Me encanta obtener conocimientos a partir de los datos, y aprovecharlos para tom
 
 Madrid
 
-Actualidad - 2024 
+Actualidad - 2025 
 
 En la Subdirección de Tecnologías de Análisis de la Información en Investigación del Fraude del Departamento de Informática Tributaria
 
@@ -58,7 +68,7 @@ En la Subdirección de Tecnologías de Análisis de la Información en Investiga
 
 ::: concise
 - Funcionario del Cuerpo Superior de Sistemas y Tecnologías de la Administración del Estado.
-- Jefe de Área de modelos predictivos en el control del fraude. 
+- Jefe de Área de Inteligencia Artificial.
 :::
 
 **Proyectos**
@@ -66,13 +76,14 @@ En la Subdirección de Tecnologías de Análisis de la Información en Investiga
 ::: concise
 - Desarrollo de una plataforma ad-hoc para monitorizar los modelos de Machine Learning (MLOPS). 
 - Aplicación de redes neuronales convolucionales para detección de fraudes en imágenes de Rayos X en aduanas. 
+- Uso de LLMs para mejorar la productividad de los empleados. 
 :::
 
 **Tecnologías**
 
 ::: concise
 - Python, Spark. 
-- Pandas, Numpy, Scikit-Learn, Xgboost, PyTorch, ZenML.
+- Pandas, Numpy, Scikit-Learn, Xgboost, PyTorch, MLFlow. 
 - Linux, Cloudera.
 - SyBase IQ.
 :::
@@ -230,6 +241,21 @@ En la Subdirección de Aplicaciones del Departamento de Informática Tributaria
 
 ## Experiencia Docente {data-icon=chalkboard-teacher}
 
+### Cursos AEAT
+
+Departamento de Aduanas. 
+
+Remoto
+
+2024
+
+Profesor del curso de Inteligencia Artificial organizado por el Departamento de Aduanas.
+
+::: concise
+* Situación de los proyectos de inteligencia artifical en la AEAT.
+* Metodología seguida en la AEAT.
+:::
+
 ### Big Data 
 
 [BBVA](https://www.bbva.com/)
@@ -307,6 +333,27 @@ Trabajo remoto
 Librería de Python que hace hyperparameter optimization y probability calibration sobre modelos de clasificación usando un enfoque de Nested Cross-Validation.
 
 ## Formación {data-icon="graduation-cap" data-concise="true"}
+
+### Máster en Big Data y Análisis de Datos en el ámbito tributario
+
+Escuela de Organización Industrial en colaboración con IEF
+
+Remoto y Presencial
+
+2024
+
+::: concise
+- Curso de 375 horas lectivas. 
+- Big Data. 
+- Bases de datos relacionales y no relacionales. 
+- Análisis de Datos.
+- Visualización de datos. 
+- Machine Learning. 
+- Deep Learning.
+- Inteligencia Artificial. 
+- LLMs. 
+- Blockchain.
+:::
 
 ### DataTalksClub
 
